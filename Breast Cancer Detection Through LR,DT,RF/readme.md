@@ -25,6 +25,9 @@ After setting up the environment, you can clone the repository and execute the m
 
 ## Conclusion
 This project demonstrates the application of machine learning algorithms for breast cancer detection using Logistic Regression, Decision Tree, and Random Forest. By comparing the performance of these algorithms, it provides insights into their effectiveness in diagnosing breast cancer. The utilization of libraries such as SKLearn, pandas, numpy, and seaborn simplifies the implementation and visualization aspects, enabling efficient analysis of the dataset.
+
+Special thanks to codeforlife200 for this project.
+
 Feel free to contribute to this project by suggesting improvements or implementing additional algorithms for breast cancer detection. Together, we can continue to refine and enhance the accuracy of breast cancer diagnosis using machine learning techniques.
 
 
